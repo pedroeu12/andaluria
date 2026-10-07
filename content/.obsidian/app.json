@@ -1,0 +1,16 @@
+{
+  "defaultViewMode": "preview",
+  "showInlineTitle": false,
+  "propertiesInDocument": "hidden",
+  "readableLineLength": true,
+  "attachmentFolderPath": "_midia",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": false,
+  "promptDelete": true,
+  "userIgnoreFilters": [
+    "_midia/"
+  ],
+  "livePreview": true
+}

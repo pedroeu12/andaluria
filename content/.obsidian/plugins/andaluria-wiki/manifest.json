@@ -1,0 +1,9 @@
+{
+  "id": "andaluria-wiki",
+  "name": "Andaluria Wiki",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Fichas, cartões, mapa com pinos e navegação para o Guia do Caçador de Andaluria.",
+  "author": "Pedro",
+  "isDesktopOnly": false
+}
