@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "496978bf2fbfaedb",
+    "type": "split",
+    "children": [
+      {
+        "id": "14f3dce0f02f0643",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d55219f87467a1a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c004916ea37afb6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "faa21af42c7e1a4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c995e7287fa3b059",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c3fa6b4a252bb0ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2fbbade1a82263d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0342054c18c5806",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f529ede3940a878",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87b1fe68e275e57d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "andaluria-wiki:Início": false,
+      "andaluria-wiki:Mapa de Andaluria": false,
+      "andaluria-wiki:Página aleatória": false,
+      "andaluria-wiki:Nova página": false
+    }
+  },
+  "active": "d55219f87467a1a7",
+  "lastOpenFiles": []
+}
