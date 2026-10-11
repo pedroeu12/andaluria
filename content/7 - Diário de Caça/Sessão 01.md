@@ -22,20 +22,20 @@ ficha:
 7. Na saída, um guarda de Santavio chamou o Shii Tak pelo nome, sem que ninguém tivesse se apresentado, e apontou o caminho para a cena de um ritual.
 8. No ritual, o grupo lutou contra doppelhounds e descobriu que a criatura que caça é um metamorfo.
 9. De volta à taverna, no andar de cima, o grupo achou mortos num quarto e cães demoníacos.
-10. O demônio apareceu e atacou. Sem ter descansado desde a luta com os doppelhounds, o grupo ficou muito ferido e fugiu para o [[Entreposto do Telhado Vermelho]].
+10. O demônio apareceu e atacou.
+11. Sem ter descansado desde a luta com os doppelhounds, o grupo ficou muito ferido e fugiu para o [[Entreposto do Telhado Vermelho]].
 
 ## Quem conhecemos
 
 - [[Salvador Fuentes]], o taverneiro de Santavio.
-- Um mendigo perto da praça, cercado de ratos.
-- Uma barda na taverna.
-- Um guarda de Santavio que sabia o nome do Shii Tak.
+- Um mendigo perto da praça, cercado de ratos, uma barda na taverna e um guarda que sabia o nome do Shii Tak. Os três eram o demônio.
 
 ## O que descobrimos
 
 - Algo grande, com vários olhos vermelhos, esteve no festival.
 - Há sangue no chão dos vinhedos da Condesa.
 - O que caçamos é um metamorfo, e anda com cães demoníacos.
+- Ele usou quatro rostos: o mendigo, a barda, o guarda e o do Salvador. Pode estar com qualquer rosto que já viu.
 - Ele ainda está em Santavio.
 
 Passe as pistas para o [[Quadro de Investigação]].
@@ -44,7 +44,7 @@ Passe as pistas para o [[Quadro de Investigação]].
 
 - O grupo está no Entreposto, ferido.
 - Quem eram os mortos no quarto da taverna?
-- Como o guarda sabia o nome do Shii Tak?
+- O Salvador de verdade está bem?
 
 ```relacionados
 ```
