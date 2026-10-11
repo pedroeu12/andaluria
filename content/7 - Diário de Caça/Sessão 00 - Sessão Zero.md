@@ -17,7 +17,7 @@ A sessão em que o grupo se formou.
 |---|---|---|---|---|
 | [[Shii Tak]] | Tiago | Fungril | Wildborne | Bardo (Troubadour) |
 | [[Maarcio]] | Juliano | Elfo + Fada | Slyborne | Ranger (Beastbound) |
-| [[Woogway]] | Murilo | Galapa + Fauno | Wanderborne | Wizard |
+| [[Woogway]] | Murilo | Galapa + Emberkin | Wanderborne | Warlock |
 
 ## O que ficou combinado
 
