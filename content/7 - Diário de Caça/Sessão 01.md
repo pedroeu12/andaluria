@@ -1,7 +1,7 @@
 ---
 tipo: diario
 subtipo: "Registro de sessão"
-resumo: "A primeira caçada: o festival, os vinhedos, o ritual e o demônio na taverna. O grupo fugiu ferido para o Entreposto."
+resumo: "Santavio. O demônio enganou a gente com quatro caras diferentes e, quando se revelou, saímos de lá carregados."
 ordem: 11
 ficha:
   "Data": "9 de outubro"
@@ -13,38 +13,17 @@ ficha:
 
 ## O que aconteceu
 
-1. Na praça do festival, entre barris quebrados e vinho espalhado, o grupo viu as memórias de um morto: a sombra de algo grande, com vários olhos vermelhos.
-2. Perto da praça, um mendigo cercado de ratos puxou conversa.
-3. Na [[Taverna de Santavio]], o grupo conversou um pouco com o taverneiro, [[Salvador Fuentes]].
-4. O grupo bateu à porta da [[Condesa Ysabela Delamoña IV|Condesa]] e não foi recebido.
-5. De volta à taverna, havia uma barda. O grupo fez algumas perguntas e saiu.
-6. Seguindo rastros, o grupo entrou nos [[Vinhedos da Condesa|vinhedos]] e achou sangue no chão. Tem algo errado ali.
-7. Na saída, um guarda de Santavio chamou o Shii Tak pelo nome, sem que ninguém tivesse se apresentado, e apontou o caminho para a cena de um ritual.
-8. No ritual, o grupo lutou contra doppelhounds e descobriu que a criatura que caça é um metamorfo.
-9. De volta à taverna, no andar de cima, o grupo achou mortos num quarto e cães demoníacos.
-10. O demônio apareceu e atacou.
-11. Sem ter descansado desde a luta com os doppelhounds, o grupo ficou muito ferido e fugiu para o [[Entreposto do Telhado Vermelho]].
+Chegamos na praça do festival, ainda toda suja de vinho e sangue, e vimos as memórias de um dos mortos. Ali perto, um mendigo cheio de ratos puxou conversa com a gente.
 
-## Quem conhecemos
+Passamos na [[Taverna de Santavio|taverna]], falamos um pouco com o [[Salvador Fuentes|Salvador]] e fomos tentar a [[Condesa Ysabela Delamoña IV|Condesa]], que nem abriu a porta. Na volta à taverna tinha uma barda; fizemos umas perguntas e saímos. Seguimos uns rastros até os [[Vinhedos da Condesa|vinhedos]] e achamos sangue no chão. Na saída, um guarda chamou o Shii Tak pelo nome, sendo que ninguém tinha se apresentado, e mandou a gente pro lugar de um ritual. Lá fomos atacados por doppelhounds.
 
-- [[Salvador Fuentes]], o taverneiro de Santavio.
-- Um mendigo perto da praça, cercado de ratos, uma barda na taverna e um guarda que sabia o nome do Shii Tak. Os três eram o demônio.
+Voltamos correndo pra taverna. No quarto de cima tinha gente morta e os cães do demônio esperando, e aí ele apareceu. O mendigo, a barda, o guarda e até o Salvador, em algum momento, eram ele. Ainda machucados da luta anterior, não aguentamos e fugimos pro [[Entreposto do Telhado Vermelho|Entreposto]].
 
-## O que descobrimos
+## Pra não esquecer
 
-- Algo grande, com vários olhos vermelhos, esteve no festival.
-- Há sangue no chão dos vinhedos da Condesa.
-- O que caçamos é um metamorfo, e anda com cães demoníacos.
-- Ele usou quatro rostos: o mendigo, a barda, o guarda e o do Salvador. Pode estar com qualquer rosto que já viu.
-- Ele ainda está em Santavio.
-
-Passe as pistas para o [[Quadro de Investigação]].
-
-## Para a próxima
-
-- O grupo está no Entreposto, ferido.
-- Quem eram os mortos no quarto da taverna?
-- O Salvador de verdade está bem?
+- Ele pega a cara de quem já viu. Em Santavio, não dá pra confiar em ninguém.
+- Tem sangue nos vinhedos da Condesa, e ela não quis receber a gente.
+- Quem eram os mortos do quarto? E o Salvador de verdade, tá vivo?
 
 ```relacionados
 ```
